@@ -1,0 +1,749 @@
+{
+  "41531400": [
+    {
+      "ref_id": "b14-whn-2025-09-07",
+      "pmid": "30481333",
+      "doi": "10.1093/sleep/zsy217",
+      "year": "2019",
+      "first_author": "drake",
+      "ref_text": "14 Drake CL Kalmbach DA Arnedt JT Cheng P Tonnu CV Roth T Treating chronic insomnia in postmenopausal women: a randomized clinical trial comparing CBT-I, sleep restriction therapy, and sleep hygiene education Sleep 2019 42 2 zsy217 https://doi.org/10.1093/sleep/zsy217 10.1093/sleep/zsy217 30481333 PMC6369725",
+      "score": 5,
+      "evidence": [
+        "has_pmid",
+        "author_year_in_table"
+      ]
+    },
+    {
+      "ref_id": "b19-whn-2025-09-07",
+      "pmid": "33818845",
+      "doi": "10.1111/jsr.13345",
+      "year": "2021",
+      "first_author": "moradi farsani",
+      "ref_text": "19 Moradi Farsani H Afshari P Sadeghniiat Haghighi K Gholamzadeh Jefreh M Abedi P Haghighizadeh MH The effect of group cognitive behavioural therapy for insomnia in postmenopausal women J Sleep Res 2021 30 5 e13345 https://doi.org/10.1111/jsr.13345 10.1111/jsr.13345 33818845",
+      "score": 5,
+      "evidence": [
+        "has_pmid",
+        "author_year_in_table"
+      ]
+    },
+    {
+      "ref_id": "b20-whn-2025-09-07",
+      "pmid": "32316886",
+      "doi": "10.1177/0193945920914081",
+      "year": "2020",
+      "first_author": "ham",
+      "ref_text": "20 Ham OK Lee BG Choi E Choi SJ Efficacy of cognitive behavioral treatment for insomnia: a randomized controlled trial West J Nurs Res 2020 42 12 1104 1112 https://doi.org/10.1177/0193945920914081 10.1177/0193945920914081 32316886",
+      "score": 5,
+      "evidence": [
+        "has_pmid",
+        "author_year_in_table"
+      ]
+    },
+    {
+      "ref_id": "b22-whn-2025-09-07",
+      "pmid": "31453958",
+      "doi": "10.1097/GME.0000000000001363",
+      "year": "2019",
+      "first_author": "green",
+      "ref_text": "22 Green SM Donegan E Frey BN Fedorkow DM Key BL Streiner DL Cognitive behavior therapy for menopausal symptoms (CBT-Meno): a randomized controlled trial Menopause 2019 26 9 972 980 https://doi.org/10.1097/GME.0000000000001363 10.1097/GME.0000000000001363 31453958",
+      "score": 5,
+      "evidence": [
+        "has_pmid",
+        "author_year_in_table"
+      ]
+    },
+    {
+      "ref_id": "b23-whn-2025-09-07",
+      "pmid": "30785053",
+      "doi": "10.1016/j.sleep.2018.11.019",
+      "year": "2019",
+      "first_author": "kalmbach",
+      "ref_text": "23 Kalmbach DA Cheng P Arnedt JT Anderson JR Roth T Fellman-Couture C Treating insomnia improves depression, maladaptive thinking, and hyperarousal in postmenopausal women: comparing cognitive-behavioral therapy for insomnia (CBTI), sleep restriction therapy, and sleep hygiene education Sleep Med 2019 55 124 134 https://doi.org/10.1016/j.sleep.2018.11.019 10.1016/j.sleep.2018.11.019 30785053 PMC6503531",
+      "score": 5,
+      "evidence": [
+        "has_pmid",
+        "author_year_in_table"
+      ]
+    },
+    {
+      "ref_id": "b24-whn-2025-09-07",
+      "pmid": "30763176",
+      "doi": "10.1200/JCO.18.00655",
+      "year": "2019",
+      "first_author": "atema",
+      "ref_text": "24 Atema V van Leeuwen M Kieffer JM Oldenburg HSA van Beurden M Gerritsma MA Efficacy of internet-based cognitive behavioral therapy for treatment-induced menopausal symptoms in breast cancer survivors: results of a randomized controlled trial J Clin Oncol 2019 37 10 809 822 https://doi.org/10.1200/JCO.18.00655 10.1200/JCO.18.00655 30763176",
+      "score": 5,
+      "evidence": [
+        "has_pmid",
+        "author_year_in_table"
+      ]
+    }
+  ],
+  "41341454": [
+    {
+      "ref_id": "ref32",
+      "pmid": "39992004",
+      "doi": "10.1111/jnu.70003",
+      "year": "2025",
+      "first_author": "amin",
+      "ref_text": "32. Amin SM El-Gazar HE Zoromba MA El-Sayed MM Awad AGE Atta MHR . Mindfulness for menopausal women: enhancing quality of life and psychological well-being through a randomized controlled intervention . J Nurs Scholarsh . ( 2025 ) 57 : 563 – 75 . doi: 10.1111/jnu.70003 , PMID: 39992004",
+      "score": 18,
+      "evidence": [
+        "has_pmid",
+        "section:results",
+        "section:study characteristics",
+        "table:table 1 characteristics of the 18 randomized controlled studies."
+      ]
+    },
+    {
+      "ref_id": "ref33",
+      "pmid": "21372745",
+      "doi": "10.1097/gme.0b013e318204a05c",
+      "year": "2011",
+      "first_author": "carmody",
+      "ref_text": "33. Carmody JF Crawford S Salmoirago-Blotcher E Leung K Churchill L Olendzki N . Mindfulness training for coping with hot flashes: results of a randomized trial . Menopause . ( 2011 ) 18 : 611 – 20 . doi: 10.1097/gme.0b013e318204a05c , PMID: 21372745 PMC3123409",
+      "score": 18,
+      "evidence": [
+        "has_pmid",
+        "section:results",
+        "section:study characteristics",
+        "table:table 1 characteristics of the 18 randomized controlled studies."
+      ]
+    },
+    {
+      "ref_id": "ref34",
+      "pmid": "35399071",
+      "doi": "10.1186/s12888-022-03869-4",
+      "year": "2022",
+      "first_author": "darehzereshki",
+      "ref_text": "34. Darehzereshki S Dehghani F Enjezab B . Mindfulness-based stress reduction group training improves of sleep quality in postmenopausal women . BMC Psychiatry . ( 2022 ) 22 : 254 . doi: 10.1186/s12888-022-03869-4 , PMID: 35399071 PMC8995144",
+      "score": 18,
+      "evidence": [
+        "has_pmid",
+        "section:results",
+        "section:study characteristics",
+        "table:table 1 characteristics of the 18 randomized controlled studies."
+      ]
+    },
+    {
+      "ref_id": "ref35",
+      "pmid": "34058560",
+      "doi": "10.1016/j.psyneuen.2021.105277",
+      "year": "2021",
+      "first_author": "gordon",
+      "ref_text": "35. Gordon JL Halleran M Beshai S Eisenlohr-Moul TA Frederick J Campbell TS . Endocrine and psychosocial moderators of mindfulness-based stress reduction for the prevention of perimenopausal depressive symptoms: a randomized controlled trial . Psychoneuroendocrinology . ( 2021 ) 130 : 105277 . doi: 10.1016/j.psyneuen.2021.105277 , PMID: 34058560",
+      "score": 18,
+      "evidence": [
+        "has_pmid",
+        "section:results",
+        "section:study characteristics",
+        "table:table 1 characteristics of the 18 randomized controlled studies."
+      ]
+    },
+    {
+      "ref_id": "ref36",
+      "pmid": "29700350",
+      "doi": "10.1038/s41598-018-24945-4",
+      "year": "2018",
+      "first_author": "wong",
+      "ref_text": "36. Wong C Yip BH Gao T Lam KYY Woo DMS Yip ALK . Mindfulness-based stress reduction (MBSR) or psychoeducation for the reduction of menopausal symptoms: a randomized, controlled clinical trial . Sci Rep . ( 2018 ) 8 : 6609 . doi: 10.1038/s41598-018-24945-4 , PMID: 29700350 PMC5919973",
+      "score": 18,
+      "evidence": [
+        "has_pmid",
+        "section:results",
+        "section:study characteristics",
+        "table:table 1 characteristics of the 18 randomized controlled studies."
+      ]
+    },
+    {
+      "ref_id": "ref37",
+      "pmid": "33370736",
+      "doi": "10.24869/psyd.2020.380",
+      "year": "2020",
+      "first_author": "lu",
+      "ref_text": "37. Lu X Liu L Yuan R . Effect of the information support method combined with yoga exercise on the depression, anxiety, and sleep quality of menopausal women . Psychiatr Danub . ( 2020 ) 32 : 380 – 8 . doi: 10.24869/psyd.2020.380 , PMID: 33370736",
+      "score": 18,
+      "evidence": [
+        "has_pmid",
+        "section:results",
+        "section:study characteristics",
+        "table:table 1 characteristics of the 18 randomized controlled studies."
+      ]
+    },
+    {
+      "ref_id": "ref38",
+      "pmid": "35191141",
+      "doi": "10.1111/nhs.12931",
+      "year": "2022",
+      "first_author": "susanti",
+      "ref_text": "38. Susanti HD Sonko I Chang PC Chuang YH Chung MH . Effects of yoga on menopausal symptoms and sleep quality across menopause statuses: a randomized controlled trial . Nurs Health Sci . ( 2022 ) 24 : 368 – 79 . doi: 10.1111/nhs.12931 , PMID: 35191141",
+      "score": 18,
+      "evidence": [
+        "has_pmid",
+        "section:results",
+        "section:study characteristics",
+        "table:table 1 characteristics of the 18 randomized controlled studies."
+      ]
+    },
+    {
+      "ref_id": "ref39",
+      "pmid": "27707450",
+      "doi": "10.5664/jcsm.6376",
+      "year": "2017",
+      "first_author": "buchanan",
+      "ref_text": "39. Buchanan DT Landis CA Hohensee C Guthrie KA Otte JL Paudel M . Effects of yoga and aerobic exercise on actigraphic sleep parameters in menopausal women with hot flashes . J Clin Sleep Med . ( 2017 ) 13 : 11 – 8 . doi: 10.5664/jcsm.6376 , PMID: 27707450 PMC5181601",
+      "score": 18,
+      "evidence": [
+        "has_pmid",
+        "section:results",
+        "section:study characteristics",
+        "table:table 1 characteristics of the 18 randomized controlled studies."
+      ]
+    },
+    {
+      "ref_id": "ref40",
+      "pmid": "22048261",
+      "doi": "10.1097/gme.0b013e318228225f",
+      "year": "2012",
+      "first_author": "afonso",
+      "ref_text": "40. Afonso RF Hachul H Kozasa EH Oliveira D d S Goto V Rodrigues D . Yoga decreases insomnia in postmenopausal women: a randomized clinical trial . Menopause . ( 2012 ) 19 : 186 – 93 . doi: 10.1097/gme.0b013e318228225f , PMID: 22048261",
+      "score": 18,
+      "evidence": [
+        "has_pmid",
+        "section:results",
+        "section:study characteristics",
+        "table:table 1 characteristics of the 18 randomized controlled studies."
+      ]
+    },
+    {
+      "ref_id": "ref42",
+      "pmid": "39196654",
+      "doi": "10.1097/HNP.0000000000000690",
+      "year": "2025",
+      "first_author": "aksoy-can",
+      "ref_text": "42. Aksoy-Can A Güner-Emül T Değirmenci F Buldum A Aksu A Vefikuluçay-Yılmaz D . The effect of laughter yoga on vasomotor symptoms and sleep quality in menopausal women: a randomized controlled trial . Holist Nurs Pract . ( 2025 ) 39 : 192 – 200 . doi: 10.1097/HNP.0000000000000690 39196654",
+      "score": 18,
+      "evidence": [
+        "has_pmid",
+        "section:results",
+        "section:study characteristics",
+        "table:table 1 characteristics of the 18 randomized controlled studies."
+      ]
+    },
+    {
+      "ref_id": "ref43",
+      "pmid": "28584553",
+      "doi": "10.4103/1735-9066.205954",
+      "year": "2017",
+      "first_author": "ahmadinezhad",
+      "ref_text": "43. Ahmadinezhad M Kargar M Vizeshfar F Hadianfard MJ . Comparison of the effect of acupressure and Pilates-based exercises on sleep quality of postmenopausal women: a randomized controlled trial . Iran J Nurs Midwifery Res . ( 2017 ) 22 : 140 – 6 . doi: 10.4103/1735-9066.205954 , PMID: 28584553 PMC5442996",
+      "score": 18,
+      "evidence": [
+        "has_pmid",
+        "section:results",
+        "section:study characteristics",
+        "table:table 1 characteristics of the 18 randomized controlled studies."
+      ]
+    },
+    {
+      "ref_id": "ref44",
+      "pmid": "31097181",
+      "doi": "10.1016/j.maturitas.2019.03.019",
+      "year": "2019",
+      "first_author": "aibar-almazán",
+      "ref_text": "44. Aibar-Almazán A Hita-Contreras F Cruz-Díaz D de la Torre-Cruz M Jiménez-García JD Martínez-Amat A . Effects of Pilates training on sleep quality, anxiety, depression and fatigue in postmenopausal women: a randomized controlled trial . Maturitas . ( 2019 ) 124 : 62 – 7 . doi: 10.1016/j.maturitas.2019.03.019 , PMID: 31097181",
+      "score": 18,
+      "evidence": [
+        "has_pmid",
+        "section:results",
+        "section:study characteristics",
+        "table:table 1 characteristics of the 18 randomized controlled studies."
+      ]
+    },
+    {
+      "ref_id": "ref45",
+      "pmid": "35486946",
+      "doi": "10.1097/gme.0000000000001941",
+      "year": "2022",
+      "first_author": "koçak",
+      "ref_text": "45. Koçak DY Varişoğlu Y . The effect of music therapy on menopausal symptoms and depression: a randomized-controlled study . Menopause . ( 2022 ) 29 : 545 – 52 . doi: 10.1097/gme.0000000000001941 , PMID: 35486946",
+      "score": 18,
+      "evidence": [
+        "has_pmid",
+        "section:results",
+        "section:study characteristics",
+        "table:table 1 characteristics of the 18 randomized controlled studies."
+      ]
+    },
+    {
+      "ref_id": "ref46",
+      "pmid": "38265351",
+      "doi": "10.1590/1806-9282.20230829",
+      "year": "2024",
+      "first_author": "ugurlu",
+      "ref_text": "46. Ugurlu M Şahin MV Oktem OH . The effect of music on menopausal symptoms, sleep quality, and depression: a randomized controlled trial . Rev Assoc Med Bras . ( 2024 ) 70 : e20230829 . doi: 10.1590/1806-9282.20230829 , PMID: 38265351 PMC10807052",
+      "score": 18,
+      "evidence": [
+        "has_pmid",
+        "section:results",
+        "section:study characteristics",
+        "table:table 1 characteristics of the 18 randomized controlled studies."
+      ]
+    },
+    {
+      "ref_id": "ref47",
+      "pmid": "36181076",
+      "doi": "10.1097/md.0000000000030897",
+      "year": "2022",
+      "first_author": "carcelén-fraile",
+      "ref_text": "47. Carcelén-Fraile MDC Aibar-Almazán A Martínez-Amat A Jiménez-García JD Brandão-Loureiro V García-Garro PA . Qigong for mental health and sleep quality in postmenopausal women: a randomized controlled trial . Medicine (Baltimore) . ( 2022 ) 101 : e30897 . doi: 10.1097/md.0000000000030897 , PMID: 36181076 PMC9524897",
+      "score": 18,
+      "evidence": [
+        "has_pmid",
+        "section:results",
+        "section:study characteristics",
+        "table:table 1 characteristics of the 18 randomized controlled studies."
+      ]
+    },
+    {
+      "ref_id": "ref48",
+      "pmid": "39321416",
+      "doi": "10.1080/02701367.2024.2406401",
+      "year": "2025",
+      "first_author": "martins",
+      "ref_text": "48. Martins JBB Fausto DY Sperandio Flores F Sonza A Matias TS Coutinho de Azevedo Guimarães A . Jazz dance on menopausal symptoms and psychological aspects: a randomized clinical trial pilot study with follow-up . Res Q Exerc Sport . ( 2025 ) 96 : 316 – 26 . doi: 10.1080/02701367.2024.2406401 , PMID: 39321416",
+      "score": 18,
+      "evidence": [
+        "has_pmid",
+        "section:results",
+        "section:study characteristics",
+        "table:table 1 characteristics of the 18 randomized controlled studies."
+      ]
+    },
+    {
+      "ref_id": "ref41",
+      "pmid": null,
+      "doi": "10.1016/j.aimed.2020.08.003",
+      "year": "2021",
+      "first_author": "portella",
+      "ref_text": "41. Portella CFS Sorpreso ICE de Assis ASM de Abreu LC Junior JMS Baracat EC . Meditation as an approach to lessen menopausal symptoms and insomnia in working women undergoing the menopausal transition period: a randomized controlled trial . Adv Integr Med . ( 2021 ) 8 : 278 – 84 . doi: 10.1016/j.aimed.2020.08.003",
+      "score": 16,
+      "evidence": [
+        "section:results",
+        "section:study characteristics",
+        "table:table 1 characteristics of the 18 randomized controlled studies."
+      ]
+    }
+  ],
+  "41161257": [],
+  "40718787": [
+    {
+      "ref_id": "ref-8",
+      "pmid": "29214925",
+      "doi": "10.1177/0260106017727359",
+      "year": "2017",
+      "first_author": "costa",
+      "ref_text": "Costa et al. (2017) Costa JG Giolo JS Mariano IM Batista JP Ribeiro ALA Souza TCF De Oliveira EP Resende APM Puga GM 2017 Combined exercise training reduces climacteric symptoms without the additive effects of isoflavone supplementation: a clinical, controlled, randomised, double-blind study Nutrition and Health 23 271 279 10.1177/0260106017727359 29214925",
+      "score": 26,
+      "evidence": [
+        "has_pmid",
+        "author_year_in_section",
+        "author_year_in_section",
+        "section:results",
+        "section:characteristics of included studies",
+        "author_year_in_section",
+        "author_year_in_section",
+        "table:table 1 characteristics of all trials included in the present meta-analysis."
+      ]
+    },
+    {
+      "ref_id": "ref-14",
+      "pmid": "28351156",
+      "doi": "10.1080/13697137.2017.1294153",
+      "year": "2017",
+      "first_author": "fontvieille",
+      "ref_text": "Fontvieille, Dionne & Riesco (2017) Fontvieille A Dionne IJ Riesco E 2017 Long-term exercise training and soy isoflavones to improve quality of life and climacteric symptoms Climacteric 20 233 239 10.1080/13697137.2017.1294153 28351156",
+      "score": 26,
+      "evidence": [
+        "has_pmid",
+        "author_year_in_section",
+        "author_year_in_section",
+        "section:results",
+        "section:characteristics of included studies",
+        "author_year_in_section",
+        "author_year_in_section",
+        "table:table 1 characteristics of all trials included in the present meta-analysis."
+      ]
+    },
+    {
+      "ref_id": "ref-26",
+      "pmid": "18395723",
+      "doi": "10.1016/j.ijgo.2008.01.028",
+      "year": "2008",
+      "first_author": "jou",
+      "ref_text": "Jou et al. (2008) Jou HJ Wu SC Chang FW Ling PY Chu KS Wu WH 2008 Effect of intestinal production of equol on menopausal symptoms in women treated with soy isoflavones International Journal of Gynaecology and Obstetrics 102 44 49 10.1016/j.ijgo.2008.01.028 18395723",
+      "score": 26,
+      "evidence": [
+        "has_pmid",
+        "author_year_in_section",
+        "author_year_in_section",
+        "section:results",
+        "section:characteristics of included studies",
+        "author_year_in_section",
+        "author_year_in_section",
+        "table:table 1 characteristics of all trials included in the present meta-analysis."
+      ]
+    },
+    {
+      "ref_id": "ref-3",
+      "pmid": "24114397",
+      "doi": "10.1007/s00198-013-2512-5",
+      "year": "2014",
+      "first_author": "atteritano",
+      "ref_text": "Atteritano et al. (2014) Atteritano M Mazzaferro S Bitto A Cannata ML D’Anna R Squadrito F Macri I Frisina A Frisina N Bagnato G Genistein effects on quality of life and depression symptoms in osteopenic postmenopausal women: a 2-year randomized, double-blind, controlled study Osteoporosis International 2014 25 1123 1129 10.1007/s00198-013-2512-5 24114397",
+      "score": 22,
+      "evidence": [
+        "has_pmid",
+        "section:results",
+        "section:characteristics of included studies",
+        "author_year_in_section",
+        "author_year_in_section",
+        "table:table 1 characteristics of all trials included in the present meta-analysis."
+      ]
+    },
+    {
+      "ref_id": "ref-9",
+      "pmid": "19339127",
+      "doi": "10.1016/j.maturitas.2009.02.008",
+      "year": "2009",
+      "first_author": "de sousa-munoz",
+      "ref_text": "de Sousa-Munoz & Filizola (2009) de Sousa-Munoz RL Filizola RG Efficacy of soy isoflavones for depressive symptoms of the climacteric syndrome Maturitas 2009 63 89 93 10.1016/j.maturitas.2009.02.008 19339127",
+      "score": 22,
+      "evidence": [
+        "has_pmid",
+        "section:results",
+        "section:characteristics of included studies",
+        "author_year_in_section",
+        "author_year_in_section",
+        "table:table 1 characteristics of all trials included in the present meta-analysis."
+      ]
+    },
+    {
+      "ref_id": "ref-12",
+      "pmid": "21163595",
+      "doi": "10.1016/j.maturitas.2010.11.012",
+      "year": "2011",
+      "first_author": "evans",
+      "ref_text": "Evans et al. (2011) Evans M Elliott JG Sharma P Berman R Guthrie N The effect of synthetic genistein on menopause symptom management in healthy postmenopausal women: a multi-center, randomized, placebo-controlled study Maturitas 2011 68 189 196 10.1016/j.maturitas.2010.11.012 21163595",
+      "score": 22,
+      "evidence": [
+        "has_pmid",
+        "section:results",
+        "section:characteristics of included studies",
+        "author_year_in_section",
+        "author_year_in_section",
+        "table:table 1 characteristics of all trials included in the present meta-analysis."
+      ]
+    },
+    {
+      "ref_id": "ref-15",
+      "pmid": "33734035",
+      "doi": "10.1080/07315724.2021.1884143",
+      "year": "2022",
+      "first_author": "frigo",
+      "ref_text": "Frigo et al. (2022) Frigo M de Barros E Dos Santos PCB Peres GL Weber J Zanelatto C Koehnlein EA Effects of a Cereal Bar with a Combination of Phytoestrogens on the Climacteric Symptoms: A Placebo-Controlled, Randomized Trial Journal of the American Nutrition Association 2022 41 325 332 10.1080/07315724.2021.1884143 33734035",
+      "score": 22,
+      "evidence": [
+        "has_pmid",
+        "section:results",
+        "section:characteristics of included studies",
+        "author_year_in_section",
+        "author_year_in_section",
+        "table:table 1 characteristics of all trials included in the present meta-analysis."
+      ]
+    },
+    {
+      "ref_id": "ref-24",
+      "pmid": "29849181",
+      "doi": "10.1038/s41430-018-0173-3",
+      "year": "2018",
+      "first_author": "imhof",
+      "ref_text": "Imhof et al. (2018) Imhof M Gocan A Imhof M Schmidt M Soy germ extract alleviates menopausal hot flushes: placebo-controlled double-blind trial European Journal of Clinical Nutrition 2018 72 961 970 10.1038/s41430-018-0173-3 29849181 PMC6035149",
+      "score": 22,
+      "evidence": [
+        "has_pmid",
+        "section:results",
+        "section:characteristics of included studies",
+        "author_year_in_section",
+        "author_year_in_section",
+        "table:table 1 characteristics of all trials included in the present meta-analysis."
+      ]
+    },
+    {
+      "ref_id": "ref-38",
+      "pmid": "26175764",
+      "doi": null,
+      "year": "2015",
+      "first_author": "nourozi",
+      "ref_text": "Nourozi et al. (2015) Nourozi M Haghollahi F Ramezanzadeh F Hanachi P Effect of Soy Milk Consumption on Quality of Life in Iranian Postmenopausal Women Journal of Family and Reproductive Health 2015 9 93 100 26175764 PMC4500821",
+      "score": 22,
+      "evidence": [
+        "has_pmid",
+        "section:results",
+        "section:characteristics of included studies",
+        "author_year_in_section",
+        "author_year_in_section",
+        "table:table 1 characteristics of all trials included in the present meta-analysis."
+      ]
+    },
+    {
+      "ref_id": "ref-43",
+      "pmid": "14706761",
+      "doi": "10.1016/s0378-5122(03)00219-6",
+      "year": "2004",
+      "first_author": "secreto",
+      "ref_text": "Secreto et al. (2004) Secreto G Chiechi LM Amadori A Miceli R Venturelli E Valerio T Marubini E Soy isoflavones and melatonin for the relief of climacteric symptoms: a multicenter, double-blind, randomized study Maturitas 2004 47 11 20 10.1016/s0378-5122(03)00219-6 14706761",
+      "score": 22,
+      "evidence": [
+        "has_pmid",
+        "section:results",
+        "section:characteristics of included studies",
+        "author_year_in_section",
+        "author_year_in_section",
+        "table:table 1 characteristics of all trials included in the present meta-analysis."
+      ]
+    },
+    {
+      "ref_id": "ref-47",
+      "pmid": "26806546",
+      "doi": "10.3109/09513590.2015.1132305",
+      "year": "2016",
+      "first_author": "tranche",
+      "ref_text": "Tranche et al. (2016) Tranche S Brotons C Pascual de la Pisa B Macias R Hevia E Marzo-Castillejo M 2016 Impact of a soy drink on climacteric symptoms: an open-label, crossover, randomized clinical trial Gynecological Endocrinology 32 477 482 10.3109/09513590.2015.1132305 26806546 PMC4898139",
+      "score": 22,
+      "evidence": [
+        "has_pmid",
+        "section:results",
+        "section:characteristics of included studies",
+        "author_year_in_section",
+        "author_year_in_section",
+        "table:table 1 characteristics of all trials included in the present meta-analysis."
+      ]
+    },
+    {
+      "ref_id": "ref-36",
+      "pmid": null,
+      "doi": "10.1016/j.jff.2024.106055",
+      "year": "2024",
+      "first_author": "na takuathung",
+      "ref_text": "Na Takuathung et al. (2024) Na Takuathung M Teekachunhatean S Chansakaow S Klinjan P Inpan R Kongta N Tipduangta P Tipduangta P Dukaew N Sakuludomkan C Koonrungsesomboon N The effects of SOY extract nutraceuticals on postmenopausal women’s health: A randomized, double-blind, placebo-controlled trial Journal of Functional Foods 2024 113 106055 10.1016/j.jff.2024.106055",
+      "score": 20,
+      "evidence": [
+        "section:results",
+        "section:characteristics of included studies",
+        "author_year_in_section",
+        "author_year_in_section",
+        "table:table 1 characteristics of all trials included in the present meta-analysis."
+      ]
+    },
+    {
+      "ref_id": "ref-19",
+      "pmid": "9643514",
+      "doi": "10.1016/s0378-5122(98)00025-5",
+      "year": "1998",
+      "first_author": "greene",
+      "ref_text": "Greene (1998) Greene JG 1998 Constructing a standard climacteric scale Maturitas 29 25 31 10.1016/s0378-5122(98)00025-5 9643514",
+      "score": 13,
+      "evidence": [
+        "has_pmid",
+        "author_year_in_section",
+        "author_year_in_section",
+        "section:results",
+        "author_year_in_section"
+      ]
+    },
+    {
+      "ref_id": "ref-13",
+      "pmid": "35308286",
+      "doi": "10.3389/fnut.2022.847421",
+      "year": "2022",
+      "first_author": "fan",
+      "ref_text": "Fan et al. (2022) Fan Y Wang M Li Z Jiang H Shi J Shi X Liu S Zhao J Kong L Zhang W Ma L 2022 Intake of soy, soy isoflavones and soy protein and risk of cancer incidence and mortality Frontiers in Nutrition 9 847421 10.3389/fnut.2022.847421 35308286 PMC8931954",
+      "score": 11,
+      "evidence": [
+        "has_pmid",
+        "section:results",
+        "author_year_in_section",
+        "author_year_in_section"
+      ]
+    },
+    {
+      "ref_id": "ref-10",
+      "pmid": "16737531",
+      "doi": "10.1186/1477-7525-4-32",
+      "year": "2006",
+      "first_author": "dinger",
+      "ref_text": "Dinger et al. (2006) Dinger J Zimmermann T Heinemann LA Stoehr D 2006 Quality of life and hormone use: new validation results of MRS scale Health and Quality of Life Outcomes 4 32 10.1186/1477-7525-4-32 16737531 PMC1482687",
+      "score": 9,
+      "evidence": [
+        "has_pmid",
+        "section:results",
+        "author_year_in_section"
+      ]
+    },
+    {
+      "ref_id": "ref-46",
+      "pmid": "23569361",
+      "doi": "10.2147/PPA.S42852",
+      "year": "2013",
+      "first_author": "tao",
+      "ref_text": "Tao et al. (2013) Tao M Shao H Li C Teng Y 2013 Correlation between the modified Kupperman Index and the menopause rating scale in chinese women Patient Prefer Adherence 7 223 229 10.2147/PPA.S42852 23569361 PMC3615846",
+      "score": 9,
+      "evidence": [
+        "has_pmid",
+        "section:results",
+        "author_year_in_section"
+      ]
+    },
+    {
+      "ref_id": "ref-16",
+      "pmid": "38825560",
+      "doi": "10.1016/j.explore.2024.05.010",
+      "year": "2024",
+      "first_author": "gencturk",
+      "ref_text": "Gencturk, Bilgic & Kaban (2024) Gencturk N Bilgic FS Kaban HU 2024 The effect of soy isoflavones given to women in the climacteric period on menopausal symptoms and quality of life: systematic review and meta-analysis of randomized controlled trials Explore 20 103012 10.1016/j.explore.2024.05.010 38825560",
+      "score": 6,
+      "evidence": [
+        "has_pmid",
+        "author_year_in_section",
+        "author_year_in_section"
+      ]
+    },
+    {
+      "ref_id": "ref-22",
+      "pmid": "8844630",
+      "doi": "10.1016/s0378-5122(96)82006-8",
+      "year": "1996",
+      "first_author": "hilditch",
+      "ref_text": "Hilditch et al. (1996) Hilditch JR Lewis J Peter A Van Maris B Ross A Franssen E Guyatt GH Norton PG Dunn E 1996 A menopause-specific quality of life questionnaire: development and psychometric properties Maturitas 24 161 175 10.1016/s0378-5122(96)82006-8 8844630",
+      "score": 6,
+      "evidence": [
+        "has_pmid",
+        "author_year_in_section",
+        "author_year_in_section"
+      ]
+    },
+    {
+      "ref_id": "ref-27",
+      "pmid": "35651836",
+      "doi": "10.4162/nrp.2022.16.S1.S147",
+      "year": "2022",
+      "first_author": "kang",
+      "ref_text": "Kang et al. (2022) Kang I Rim CH Yang HS Choe JS Kim JY Lee M 2022 Effect of isoflavone supplementation on menopausal symptoms: a systematic review and meta-analysis of randomized controlled trials Nutrition Research and Practice 16 S147 S159 10.4162/nrp.2022.16.S1.S147 35651836 PMC9127519",
+      "score": 6,
+      "evidence": [
+        "has_pmid",
+        "author_year_in_section",
+        "author_year_in_section"
+      ]
+    },
+    {
+      "ref_id": "ref-28",
+      "pmid": "36276627",
+      "doi": "10.4103/jmh.jmh_190_21",
+      "year": "2022",
+      "first_author": "khapre",
+      "ref_text": "Khapre, Deshmukh & Jain (2022) Khapre S Deshmukh U Jain S 2022 The impact of soy isoflavone supplementation on the menopausal symptoms in perimenopausal and postmenopausal women Journal of Mid-life Health 13 175 184 10.4103/jmh.jmh_190_21 36276627 PMC9583364",
+      "score": 6,
+      "evidence": [
+        "has_pmid",
+        "author_year_in_section",
+        "author_year_in_section"
+      ]
+    },
+    {
+      "ref_id": "ref-30",
+      "pmid": "14412840",
+      "doi": "10.1001/jama.1959.03010300001001",
+      "year": "1959",
+      "first_author": "kupperman",
+      "ref_text": "Kupperman, Wetchler & Blatt (1959) Kupperman HS Wetchler BB Blatt MH 1959 Contemporary therapy of the menopausal syndrome Journal of the American Medical Association 171 1627 1637 10.1001/jama.1959.03010300001001 14412840",
+      "score": 6,
+      "evidence": [
+        "has_pmid",
+        "author_year_in_section",
+        "author_year_in_section"
+      ]
+    },
+    {
+      "ref_id": "ref-31",
+      "pmid": "10183310",
+      "doi": "10.1177/016327879702000102",
+      "year": "1997",
+      "first_author": "larson",
+      "ref_text": "Larson (1997) Larson JS 1997 The MOS 36-item short form health survey. A conceptual analysis Evaluation & the Health Professions 20 14 27 10.1177/016327879702000102 10183310",
+      "score": 6,
+      "evidence": [
+        "has_pmid",
+        "author_year_in_section",
+        "author_year_in_section"
+      ]
+    },
+    {
+      "ref_id": "ref-32",
+      "pmid": "34546841",
+      "doi": "10.1080/21655979.2021.1979864",
+      "year": "2021",
+      "first_author": "ma",
+      "ref_text": "Ma et al. (2021) Ma X Li X Ma L Chen Y He S 2021 Soy isoflavones alleviate polycystic ovary syndrome in rats by regulating NF-kappaB signaling pathway Bioengineered 12 7215 7223 10.1080/21655979.2021.1979864 34546841 PMC8806892",
+      "score": 6,
+      "evidence": [
+        "has_pmid",
+        "author_year_in_section",
+        "author_year_in_section"
+      ]
+    },
+    {
+      "ref_id": "ref-34",
+      "pmid": "19631508",
+      "doi": "10.1016/j.jclinepi.2009.06.005",
+      "year": "2009",
+      "first_author": "moher",
+      "ref_text": "Moher et al. (2009) Moher D Liberati A Tetzlaff J Altman DG Group P 2009 Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement Journal of Clinical Epidemiology 62 1006 1012 10.1016/j.jclinepi.2009.06.005 19631508",
+      "score": 6,
+      "evidence": [
+        "has_pmid",
+        "author_year_in_section",
+        "author_year_in_section"
+      ]
+    },
+    {
+      "ref_id": "ref-39",
+      "pmid": "34380475",
+      "doi": "10.1186/s12951-021-00973-7",
+      "year": "2021",
+      "first_author": "ou",
+      "ref_text": "Ou et al. (2021) Ou Q Zhang S Fu C Yu L Xin P Gu Z Cao Z Wu J Wang Y 2021 More natural more better: triple natural anti-oxidant puerarin/ferulic acid/polydopamine incorporated hydrogel for wound healing Journal of Nanobiotechnology 19 237 10.1186/s12951-021-00973-7 34380475 PMC8359571",
+      "score": 6,
+      "evidence": [
+        "has_pmid",
+        "author_year_in_section",
+        "author_year_in_section"
+      ]
+    },
+    {
+      "ref_id": "ref-40",
+      "pmid": "36983805",
+      "doi": "10.3390/life13030649",
+      "year": "2023",
+      "first_author": "pop",
+      "ref_text": "Pop et al. (2023) Pop AL Nasui BA Bors RG Penes ON Prada AG Clotea E Crisan S Cobelschi C Mehedintu C Carstoiu MM Varlas VN 2023 The current strategy in hormonal and non-hormonal therapies in menopause—a comprehensive review Life 13 3 649 10.3390/life13030649 36983805 PMC10053935",
+      "score": 6,
+      "evidence": [
+        "has_pmid",
+        "author_year_in_section",
+        "author_year_in_section"
+      ]
+    }
+  ]
+}
